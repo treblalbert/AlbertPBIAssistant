@@ -81,7 +81,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Meri Genés\\.nuget\\packages\\": {}
+    "C:\\Users\\Albert Adroer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -89,11 +89,11 @@
       "projectUniqueName": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\PBIXReader.csproj",
       "projectName": "PBIXReader",
       "projectPath": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\PBIXReader.csproj",
-      "packagesPath": "C:\\Users\\Meri Genés\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Albert Adroer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Meri Genés\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Albert Adroer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -431,7 +431,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Microsoft.AnalysisServices.Tabular 13.0.2150.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net10.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'Microsoft.AnalysisServices.Tabular 13.0.2150.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.AnalysisServices.Tabular",
       "targetGraphs": [
         "net10.0"

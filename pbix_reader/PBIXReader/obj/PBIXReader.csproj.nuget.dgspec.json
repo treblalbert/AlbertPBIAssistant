@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\PBIXReader.csproj",
         "projectName": "PBIXReader",
         "projectPath": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\PBIXReader.csproj",
-        "packagesPath": "C:\\Users\\Meri Genés\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Albert Adroer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Meri Genés\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Albert Adroer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
