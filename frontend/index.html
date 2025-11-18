@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Albert's Power BI Assistant</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <h2>API Key</h2>
+        <input type="password" id="apikey" placeholder="Enter API Key">
+        <button onclick="saveKey()">Save Key</button>
+        <div id="save-status" class="status"></div>
+
+        <h4>Or load from file</h4>
+        <input type="file" id="keyfile">
+        <button onclick="loadKeyFile()">Load Key File</button>
+
+        <hr>
+        <button onclick="loadModel()" class="primary-btn">Load Power BI Model</button>
+        <div id="model-status" class="status"></div>
+
+        <h3>Tables</h3>
+        <ul id="tables" class="table-list"></ul>
+    </div>
+
+    <!-- Main Panel -->
+    <div class="main">
+        <h2>Ask OpenAI</h2>
+        <textarea id="prompt" rows="6" placeholder="Enter your question or instructions..."></textarea>
+        <button onclick="ask()" class="primary-btn">Send</button>
+        <h3>Response</h3>
+        <pre id="response" class="response-box"></pre>
+    </div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

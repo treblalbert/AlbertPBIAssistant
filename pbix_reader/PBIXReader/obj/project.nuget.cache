@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPZqDextZDg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\PBIXReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meri Genés\\.nuget\\packages\\microsoft.analysisservices.tabular\\13.0.2150.3\\microsoft.analysisservices.tabular.13.0.2150.3.nupkg.sha512",
+    "C:\\Users\\Meri Genés\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.AnalysisServices.Tabular 13.0.2150.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net10.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\PBIXReader.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Albert Adroer\\Desktop\\AlbertPBIAssistant\\pbix_reader\\PBIXReader\\PBIXReader.csproj",
+      "libraryId": "Microsoft.AnalysisServices.Tabular",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
